@@ -1,5 +1,17 @@
 # @zag-js/dom-query
 
+## 1.46.1
+
+### Patch Changes
+
+- [#3469](https://github.com/chakra-ui/zag/pull/3469)
+  [`4c147ce`](https://github.com/chakra-ui/zag/commit/4c147ce90ec37f29ee41d9039615882e69a8db7a) Thanks
+  [@jsabutis](https://github.com/jsabutis)! - - Fix menu and tree view typeahead not matching items that start with an
+  accented or non-Latin character.
+  - Match typeahead regardless of case and accents, so typing "e" finds "Éditer".
+- Updated dependencies []:
+  - @zag-js/types@1.46.1
+
 ## 1.46.0
 
 ### Patch Changes

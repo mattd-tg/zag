@@ -1,5 +1,24 @@
 # @zag-js/combobox
 
+## 1.46.1
+
+### Patch Changes
+
+- [#3473](https://github.com/chakra-ui/zag/pull/3473)
+  [`1910782`](https://github.com/chakra-ui/zag/commit/1910782358254baeac186b3d6a736ca98f68af20) Thanks
+  [@jsabutis](https://github.com/jsabutis)! - - Fix unselected options missing `aria-selected="false"`.
+- Updated dependencies [[`4c147ce`](https://github.com/chakra-ui/zag/commit/4c147ce90ec37f29ee41d9039615882e69a8db7a)]:
+  - @zag-js/dom-query@1.46.1
+  - @zag-js/core@1.46.1
+  - @zag-js/dismissable@1.46.1
+  - @zag-js/focus-visible@1.46.1
+  - @zag-js/popper@1.46.1
+  - @zag-js/anatomy@1.46.1
+  - @zag-js/types@1.46.1
+  - @zag-js/collection@1.46.1
+  - @zag-js/utils@1.46.1
+  - @zag-js/live-region@1.46.1
+
 ## 1.46.0
 
 ### Patch Changes
